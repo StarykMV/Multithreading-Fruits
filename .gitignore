@@ -27,3 +27,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore IntelliJ IDEA config files
+.idea/
+*.iml
+
+# Build output
+/out/
+*.class
+
+# OS-specific files
+Thumbs.db
